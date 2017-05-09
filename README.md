@@ -8,3 +8,5 @@ Translations for Discord Cards
 - Do not suggest inappropriate translations.
 - Check Context tab for info on how it's structured.
 - Check English version for context.
+- `_emoji` is not to be translated, Snazzah will modify this.
+- `_name` is the name of the language, in the native language.
