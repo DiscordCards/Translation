@@ -182,6 +182,14 @@
 	"no_badges_they": "$1 have no badges.",
 	"badge_obtained_in": "Obtained in $1",
 
+	"no_quest": "You don't have an active quest!",
+	"current_quest": "Current Quest",
+	"changed_quest": "Quest Changed",
+	"started_quest": "Quest Started",
+	"completed_quest": "Quest completed!",
+	"quest_no_cards": "You don't have these cards:",
+	"cards_needed": "Cards Needed",
+
 	"no_trade": "Sorry, $1, but you don't have a trade.",
 	"accepted_trade": "Accepted trade.",
 	"denied_trade": "Declined trade.",
@@ -255,6 +263,8 @@
 	"trading": "Trading",
 	"trader": "Trader",
 	"tradee": "Tradee",
+	"quest": "Quest",
+	"reward": "Reward",
 	"time": "$1 Days $2 Hours $3 Minutes $4 Seconds",
 
 	"_lowpriority": [
@@ -295,6 +305,7 @@
 		"sold",
 		"type",
 		"trader",
-		"tradee"
+		"tradee",
+		"quest"
 	]
 }
