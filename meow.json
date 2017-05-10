@@ -1,4 +1,23 @@
 {
     "_emoji": "$smiley_cat",
-    "_name": "mroauura (Catlang)"
+    "_name": "mroauura (Catlang)",
+    "embed_warn": "[MEOEOEW] Mowarr nyehmruu muramura mreo wrue.",
+    "no_start_that": "Mowmow, $1, meow meow mera ra~nyehr~ mro.",
+    "no_start": "Mrr, mreow mro meow meow mera moro `$1stats` murr mreow.",
+    "your_bal": "Moworr :credit_card: nyeraor mrraa~ **$1**.",
+    "their_bal": "Meow meow mera :credit_card: nyeraor mrraa~ **$1**.",
+    "user_not_started": "Mowmow, $1, meow meow mera ra~nyehr~ mro.",
+    "series_locked": "Mow! Mahrahru mera mur~ nyoh meow mro.",
+    "cant_affort": "Mow! Ra~mureouro mrraa~!",
+    "series_bought": "Mrreehra $1 Murrrhemro.",
+    "item_found": "Mruunyeh $1 mre.",
+    "items_found": "Mruunyeh $1 ~mre.",
+    "found_specific": "Mow! Mreowu morr mera.",
+    "no_card_id_found": "Mow, $1, nyehmruu mrora mera.",
+    "no_card_exist_found": "Mow, $1, nyehmruu mre mera.",
+    "no_series_exist_found": "Mow, $1, nyehmruu mahrahru mera.",
+    "no_rarity_found": "Mow, $1, nyehmruu mehehere mera. Mroewu momo meow ~mreu.",
+    "specify_card_pack": "Murrrhemro mera, $1.",
+    "specify_card": "Mre mera, $1.",
+    "specify_badge": "Mreourh mera, $1."
 }
