@@ -1,4 +1,5 @@
 {
     "_emoji": "$sailboat",
-    "_name": "Pirate"
+    "_name": "Pirate",
+    "cant_affort": "You don't have enough doubloons for that!"
 }
