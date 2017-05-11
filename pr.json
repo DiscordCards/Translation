@@ -2,6 +2,12 @@
     "_emoji": "$sailboat",
     "_name": "Pirate",
     "cant_affort": "You don't have enough doubloons for that!",
-    "embed_warn": "[AVAST] This machine don't have the right orders to use someing called \"Embed Links\"!",
-    "series_locked": "This bundle o' cards is still being forged."
+    "embed_warn": "[AVAST] This machine don't have the right orders to use something called \"Embed Links\"!",
+    "series_locked": "This bundle o' cards is still being forged.",
+    "c": "Old",
+    "sr": "Legendary",
+    "need_embed": "I need orders to use \"Embed Links\" to do that!",
+    "large_bet": "Thats way too many doubloons to bet on!",
+    "r": "Rare",
+    "invalid_bet": "That isn't a bet!"
 }
