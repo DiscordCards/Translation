@@ -1,5 +1,7 @@
 {
     "_emoji": "$sailboat",
     "_name": "Pirate",
-    "cant_affort": "You don't have enough doubloons for that!"
+    "cant_affort": "You don't have enough doubloons for that!",
+    "embed_warn": "[AVAST] This machine don't have the right orders to use someing called \"Embed Links\"!",
+    "series_locked": "This bundle o' cards is still being forged."
 }
