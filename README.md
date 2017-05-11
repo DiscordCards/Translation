@@ -10,3 +10,4 @@ Translations for Discord Cards
 - Check English version for context.
 - `_emoji` is not to be translated, Snazzah will modify this.
 - `_name` is the name of the language, in the native language.
+- Anything encased in backticks ``` should not be translated.
