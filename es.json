@@ -234,5 +234,7 @@
     "trading": "Trueque",
     "trader": "Jugador que solicitó el trueque",
     "tradee": "Jugador al que estás haciendo el trueque",
-    "time": "$1 Días $2 Horas $3 Minutos $4 Segundos"
+    "time": "$1 Días $2 Horas $3 Minutos $4 Segundos",
+    "cardguess_wrong": "Incorrecto!",
+    "user_not_invited": "Eso usador no esta invitado!"
 }
