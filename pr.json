@@ -9,5 +9,12 @@
     "need_embed": "I need orders to use \"Embed Links\" to do that!",
     "large_bet": "Thats way too many doubloons to bet on!",
     "r": "Rare",
-    "invalid_bet": "That isn't a bet!"
+    "invalid_bet": "That isn't a bet!",
+    "no_start_that": "Alas, {{user}}, for he has not started his journey.",
+    "no_start": "Start yer journey by using the `{{prefix}}stats` call.",
+    "started_acct": "{{user}}, you have started yer journey o' a lifetime!",
+    "cant_start_week": "Alas, {{user}}, you must be up for 7 moons to be wise enough to start yer journey.",
+    "invalid_locale": "That's not a known language!",
+    "locale_setting": "Set yer known language to `{{locale}}`, welcome to the pirate world!",
+    "locale": "Known Language:"
 }
