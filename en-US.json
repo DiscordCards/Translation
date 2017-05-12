@@ -308,5 +308,7 @@
 	"commands": "Commands",
 	"buy_uppercase": "BUY",
 	"sell_uppercase": "SELL",
+	"on": "On",
+	"off": "Off",
 	"time": "{{days}} Days {{hours}} Hours {{minutes}} Minutes {{seconds}} Seconds"
 }
