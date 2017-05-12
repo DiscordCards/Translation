@@ -16,5 +16,18 @@
     "cant_start_week": "Alas, {{user}}, you must be up for 7 moons to be wise enough to start yer journey.",
     "invalid_locale": "That's not a known language!",
     "locale_setting": "Set yer known language to `{{locale}}`, welcome to the pirate world!",
-    "locale": "Known Language:"
+    "locale": "Known Language:",
+    "your_bal": "Yer :credit_card: amount is **{{amount}}**.",
+    "their_bal": "Their :credit_card: amount is **{{amount}}**.",
+    "series_bought": "Paid fer {{item}} Pile.",
+    "series_bought_a": "Paid fer a {{item}} Pile.",
+    "item_found": "Searched fer 1 item.",
+    "items_found": "Searched fer {{amount}} items.",
+    "found_specific": "I need more clues, lad!",
+    "specify_card": "Tell me what card, {{user}}!",
+    "specify_badge": "Tell me what patch, {{user}}!",
+    "specify_card_pack": "Tell me what card pile, {{user}}!",
+    "uc": "Well-Worn",
+    "specify_bet": "Tell me how may doubloons you wan to bet!",
+    "slots_no_match": "Nay match! Give 'er a go again!"
 }
