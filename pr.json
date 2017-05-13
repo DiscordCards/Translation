@@ -29,5 +29,7 @@
     "specify_card_pack": "Tell me what card pile, {{user}}!",
     "uc": "Well-Worn",
     "specify_bet": "Tell me how may doubloons you wan to bet!",
-    "slots_no_match": "Nay match! Give 'er a go again!"
+    "slots_no_match": "Nay match! Give 'er a go again!",
+    "no_card_exist_found": "Alas, {{user}}, but there ain't be a card around here!",
+    "no_card_id_found": "Alas, {{user}}, but there ain't be a card with that number around here!"
 }
