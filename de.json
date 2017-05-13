@@ -289,5 +289,7 @@
     "reward": "Belohnung",
     "commands": "Befehle",
     "buy_uppercase": "KAUFEN",
-    "sell_uppercase": "VERKAUFEN"
+    "sell_uppercase": "VERKAUFEN",
+    "on": "An",
+    "off": "Aus"
 }
