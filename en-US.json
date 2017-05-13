@@ -21,7 +21,7 @@
 	"no_card_exist_found": "Sorry, {{user}}, but that card doesn't exist.",
 	"no_series_id_found": "Sorry, {{user}}, but no series has that ID.",
 	"no_series_exist_found": "Sorry, {{user}}, but that series doesn't exist.",
-	"no_badge_exist_found": "Sorry, {{user}}, but that series doesn't exist.",
+	"no_badge_exist_found": "Sorry, {{user}}, but that badge doesn't exist.",
 	"no_rarity_found": "Sorry, {{user}}, but but that rarity doesn't exist. Use shorthand names.",
 	"specify_card_pack": "Please specify a card pack, {{user}}.",
 	"specify_card": "Please specify a card, {{user}}.",
