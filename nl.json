@@ -2,7 +2,7 @@
     "_name": "Nederlands",
     "_emoji": "nl",
     "embed_warn": "[WAARSCHUWING] De Bot heeft geen toestemming om links in te sluiten.",
-    "no_start_that": "Sorry, $1, maar deze gebruiker is nog niet begonnen.",
+    "no_start_that": "Sorry, {{user}}, maar deze gebruiker is nog niet begonnen.",
     "no_start": "Maak uw account met behulp van de `$1stats` opdracht.",
     "your_bal": "Je :credit_card: Saldo is **$1**.",
     "their_bal": "Hun :credit_card: Saldo is **$1**.",
