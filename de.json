@@ -291,5 +291,10 @@
     "buy_uppercase": "KAUFEN",
     "sell_uppercase": "VERKAUFEN",
     "on": "An",
-    "off": "Aus"
+    "off": "Aus",
+    "market": "Markt",
+    "minigames": "Minispiele",
+    "quests": "Quests",
+    "general": "Allgemein",
+    "shop": "Shop"
 }
