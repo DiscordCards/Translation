@@ -246,7 +246,7 @@
 	"trade_cant_afford": "You can't afford to set the money trade that high!",
 	"trade_currency_set": "Set :dollar: offering to **{{amount}}**.",
 	"in_trade": "Sorry, {{user}}, but you are in a current trade or are in a request for one.",
-	"they_in_trade": "Sorry, {{user}}, but that person is a current trade or is in a request for one.",
+	"they_in_trade": "Sorry, {{user}}, but that person is in a current trade or is in a request for one.",
 	"not_accepting_trades": "Sorry, {{user}}, but this user isn't accepting trades.",
 	"trade_request": "{{user}} invited to trade with you! Type `{{prefix}}taccept` to accept it or`{{prefix}}tdeny` to deny it.",
 
