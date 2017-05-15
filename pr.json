@@ -52,5 +52,17 @@
     "query_error": "We couldn't do with yer search, try searchin' for somthin' else!",
     "command_serverinvite": "You can join the crew with this link:",
     "command_invite": "You can invite the pirate bot with this link:",
-    "command_bug": "You can report bugs with this link:"
+    "command_bug": "You can report bugs with this link:",
+    "cardguess_stop": "Stopped the merry games.",
+    "await_timeout": "You didn't tell me in 30 seconds! Giver 'er a go again!",
+    "await_overwritten": "Something else came up! Giver 'er a go again!",
+    "cardguess_start_1": "What could this card be? Ye have 30 seconds",
+    "cardguess_start_2": "Type `cancel` at anytime to stop the merry games.",
+    "cardguess_fail": "Ye didn't know what `{{item}}` was! Give 'er a go next time!",
+    "cardguess_success": "Ye got is right lad!",
+    "cardguess_success_guess": "Ye mean `{{item}}`? Well that be right lad!",
+    "cardguess_wrong": "Arrg!",
+    "invalid_bool": "Alas, {{user}}, but tell me what ye want. Say `yes` or `no`.",
+    "no_use_pms": "I can't tell you that in private!",
+    "not_setting": "Ye can't change that, {{user}}."
 }
