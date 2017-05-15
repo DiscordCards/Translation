@@ -129,7 +129,7 @@
     "buy_high": "Harga Tawaran Pembelian Tertinggi.",
     "buy_md": "Data Pasar Tawaran Pembelian.",
     "member_count": "Jumlah Anggota",
-    "balance_embed": "saldo :credit_card: ",
+    "balance_embed": "saldo :credit_card:",
     "large_price": "Terlalu mahal!",
     "max_offers": "Maaf, $1, tapi anda hanya dapat memiliki maksimal 10 tawaran.",
     "gm_buying_buy": "$1 mencari $2 untuk dibeli senilai $3 :dollar: per barangnya. (Offer ID: `$4`)",
