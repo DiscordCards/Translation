@@ -9,7 +9,7 @@
 	"cant_start_week": "Sorry, {{user}}, but your Discord account needs to be a week old to play.",
 	"your_bal": "Your :credit_card: Balance is **{{amount}}**.",
 	"their_bal": "Their :credit_card: Balance is **{{amount}}**.",
-
+	
 	"series_locked": "This series is still being developed.",
 	"cant_affort": "Can't afford that!",
 	"series_bought": "Bought {{item}} Pack.",
@@ -310,5 +310,10 @@
 	"sell_uppercase": "SELL",
 	"on": "On",
 	"off": "Off",
+	"market": "Market",
+	"minigames": "Minigames",
+	"quests": "Quests",
+	"general": "General",
+	"shop": "Shop",
 	"time": "{{days}} Days {{hours}} Hours {{minutes}} Minutes {{seconds}} Seconds"
 }
