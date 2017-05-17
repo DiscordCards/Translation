@@ -42,7 +42,7 @@
     "send_to_pm": "Sent you the instructions in yer private pouch!",
     "help_more_info": "`{{prefix}}help [command]` for more info",
     "usage": "Usage",
-    "description": "Description",
+    "description": "Information",
     "aliases": "Aliases",
     "msg_delay": "Message Timestamp Delay: {{seconds}} Seconds",
     "error": "Alas! An error occured! The error will be notified to the official ship! Report code is `{{code}}`.",
@@ -87,6 +87,11 @@
     "club_notif_ban": "The club {{rank}} {{user}} made ye walk the plank from the club {{club}}!",
     "club_notif_rename": "Ey, {{user}} renamed ye ship {{oldname}} to {{club}}!",
     "club_notif_ownership": "{{user}} made ye captain of the ship {{club}}.",
-    "no_series_id_found": "Ay, {{user}}, the ID ain't real!",
-    "invalid_settings_perms": "Ye must need the `{{role}}` role to edit ship settings!"
+    "no_series_id_found": "Ay, {{user}}, but none series ain't have that ID.",
+    "invalid_settings_perms": "Yer need the `{{role}}` role for permission to plunder ye server settin'",
+    "no_series_exist_found": "Ay, {{user}}, ye series ye lookin' fer ain't exist!",
+    "no_rarity_found": "Serry, {{user}}, but that rarity ain't exist! Use ye shorthand names, ye' know? Shorter then me hook!",
+    "time_taken": "Time ye taken: {{seconds}} seconds.",
+    "invalid_arg": "Arr, strange argument!",
+    "invalid_hex": "Ay. {{user}}, but that not real HEX color!"
 }
