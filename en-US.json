@@ -31,6 +31,7 @@
 	"uc": "Uncommon",
 	"r": "Rare",
 	"sr": "Super Rare",
+	"l": "Limited",
 
 	"need_embed": "I must have Embed Links permission for this command!",
 	"large_bet": "Too large of a bet!",
@@ -264,7 +265,7 @@
 	"badge": "Badge",
 	"rarity": "Rarity",
 	"owned": "Owned",
-	"count": "count",
+	"count": "Count",
 	"avg": "Average",
 	"highest": "Highest",
 	"lowest": "Lowest",
