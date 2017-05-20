@@ -296,5 +296,7 @@
     "minigames": "Minispiele",
     "quests": "Quests",
     "general": "Allgemein",
-    "shop": "Shop"
+    "shop": "Shop",
+    "l": "Limitiert",
+    "unfinished": "Unvollständig"
 }
