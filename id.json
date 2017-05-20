@@ -166,7 +166,7 @@
     "badge": "Lencana",
     "rarity": "Kelangkaan",
     "owned": "Telah Dimiliki",
-    "count": "jumlah",
+    "count": "Jumlah",
     "avg": "Rata-rata",
     "highest": "Tertinggi",
     "lowest": "Terrendah",
@@ -296,5 +296,7 @@
     "quests": "Quests",
     "general": "Umum",
     "shop": "Toko",
-    "time": "{{days}} Hari {{hours}} Jam {{minutes}} Menit {{seconds}} Detik"
+    "time": "{{days}} Hari {{hours}} Jam {{minutes}} Menit {{seconds}} Detik",
+    "l": "Terbatas",
+    "unfinished": "Belum selesai"
 }
