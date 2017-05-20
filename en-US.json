@@ -95,6 +95,7 @@
 	"notifs_off": "Notifications are now off.",
 	"trades_on": "Trades are now on.",
 	"trades_off": "Trades are now off.",
+	"unfinished": "Unfinished",
 
 	"no_club": "Couldn't find that club!",
 	"club_specify_user": "Please specify a user.",
