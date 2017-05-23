@@ -350,7 +350,8 @@
 	"streak": "Streak",
 
 	"gift_none": "You tried giving {{user}} {{amount}} {{item}}, but you have none.",
-	"trade_tried_add_left": "You tried giving {{user}} {{amount}} {{item}}, but you only have {{left}} more left of that item.",
+	"gift_left": "You tried giving {{user}} {{amount}} {{item}}, but you only have {{left}} more left of that item.",
+	"gift_sent_a": "Gave {{user}} a {{item}}.",
 	"gift_sent": "Gave {{user}} {{item}}.",
 	"donation_sent": "Gave {{user}} **{{amount}}** :dollar:.",
 
