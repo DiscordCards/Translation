@@ -306,5 +306,18 @@
     "market": "Рынок",
     "minigames": "Мини-игры",
     "quests": "Задания",
-    "general": "Основное"
+    "general": "Основное",
+    "l": "Ограниченная",
+    "help_extra.search_card": "Поиск предложений карты с данным ID",
+    "help_extra.search_rarity": "Поиск предложений карт с данной редкостью",
+    "help_extra.search_series": "Поиск предложений карт и пачек с данным ID серии",
+    "help_extra.buy_series": "Покупает пачку карт с данным ID серии",
+    "help_extra.note": "Заметка",
+    "help_extra.mod_card_id": "ID_КАРТЫ",
+    "help_extra.mod_rarity": "РЕДКОСТЬ",
+    "help_extra.mod_series": "СЕРИЯ",
+    "help_extra.mod_series_id": "ID_СЕРИИ",
+    "help_extra.settings": "Настройки",
+    "help_extra.modifiers": "Модификаторы",
+    "help_desc.balance": "Посмотреть свой или чужой баланс"
 }
