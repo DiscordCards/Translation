@@ -354,6 +354,7 @@
 	"gift_sent_a": "Gave {{user}} a {{item}}.",
 	"gift_sent": "Gave {{user}} {{item}}.",
 	"donation_sent": "Gave {{user}} **{{amount}}** :dollar:.",
+	"donation_cant_afford": "You can't afford to donate that much!",
 
 	"series": "Series",
 	"trade": "Trade",
