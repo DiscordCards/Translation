@@ -105,7 +105,9 @@
 		"csetting": "Edits or views setting in the club.",
 		"cunban": "Unbans someone from a club.",
 		"daily": "Recieve daily :dollar:.",
+		"donate": "Donate someone :dollar:.",
 		"fusecards": "Fuses all cards of one series into a badge.",
+		"gift": "Gift someone an item.",
 		"help": "Shows the help message",
 		"inv": "Get your own inventory (or someone elses)",
 		"invite": "Gets an invite link for the bot.",
@@ -346,6 +348,11 @@
 	"daily_done": "You already did your daily today!",
 	"time_left": "Time Left",
 	"streak": "Streak",
+
+	"gift_none": "You tried giving {{user}} {{amount}} {{item}}, but you have none.",
+	"trade_tried_add_left": "You tried giving {{user}} {{amount}} {{item}}, but you only have {{left}} more left of that item.",
+	"gift_sent": "Gave {{user}} {{item}}.",
+	"donation_sent": "Gave {{user}} **{{amount}}** :dollar:.",
 
 	"series": "Series",
 	"trade": "Trade",
