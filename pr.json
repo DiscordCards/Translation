@@ -160,5 +160,16 @@
     "tradee_currency": "Tradee's :gem:",
     "trade_currency_reset": "Stopped giving out yer :gem:.",
     "trade_currency_set": "Ye'll be giving out **{{amount}}** :gem:.",
-    "daily_ok": "Ye gained **{{amount}}** for ye :moneybag:."
+    "daily_ok": "Ye gained **{{amount}}** for ye :moneybag:.",
+    "help_desc.badge": "Shows readin's about a patch.",
+    "help_desc.badges": "Lists all patches",
+    "help_desc.cardguess": "Guess what cards ye see for a couple of :gem:!",
+    "help_desc.cards": "Shows a list of cards",
+    "help_desc.ccreate": "Create a crew",
+    "help_desc.ceditdesc": "Edits the description of a crew.",
+    "help_desc.ceditname": "Renames a crew.",
+    "help_desc.cgiveowner": "Passes on the crew's captain hat to someone else.",
+    "help_desc.daily": "Get yer daily :gem:.",
+    "help_desc.donate": "Give a swashbuckler some :gem:.",
+    "help_desc.slots": "Bet yer :gem: in slots."
 }
