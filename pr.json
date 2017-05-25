@@ -171,5 +171,10 @@
     "help_desc.cgiveowner": "Passes on the crew's captain hat to someone else.",
     "help_desc.daily": "Get yer daily :gem:.",
     "help_desc.donate": "Give a swashbuckler some :gem:.",
-    "help_desc.slots": "Bet yer :gem: in slots."
+    "help_desc.slots": "Bet yer :gem: in slots.",
+    "help_desc.tsetmoney": "Sets th' amount of :gem: ye be willin' t' offer.",
+    "gm_buying_buy": "{{user}} put up some {{item}} fer purchase at {{amount}} :gem: each in th' market. (Offer ID: `{{id}}`)",
+    "gm_sell": "{{user}} put up some {{item}} fer sale at {{amount}} :gem: each in th' market. (Offer ID: `{{id}}`)",
+    "gm_execute": "{{user}} made a deal wit' th' offer `{{id}}` ({{item}} at {{amount}} :gem: each)",
+    "donation_sent": "Gave the swashbuckler {{user}} **{{amount}}** :gem:."
 }
