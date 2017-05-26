@@ -176,5 +176,10 @@
     "gm_buying_buy": "{{user}} put up some {{item}} fer purchase at {{amount}} :gem: each in th' market. (Offer ID: `{{id}}`)",
     "gm_sell": "{{user}} put up some {{item}} fer sale at {{amount}} :gem: each in th' market. (Offer ID: `{{id}}`)",
     "gm_execute": "{{user}} made a deal wit' th' offer `{{id}}` ({{item}} at {{amount}} :gem: each)",
-    "donation_sent": "Gave the swashbuckler {{user}} **{{amount}}** :gem:."
+    "donation_sent": "Gave the swashbuckler {{user}} **{{amount}}** :gem:.",
+    "help_extra.search_card": "Searches card offer with th' ID",
+    "help_extra.search_rarity": "Searches card offers with th' rarity",
+    "help_extra.search_series": "Searches card and card pile offers with th' series ID",
+    "help_extra.buy_series": "Buys card pile with th' ID",
+    "help_extra.card_card_id": "Finds a card with th' ID"
 }
