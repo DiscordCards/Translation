@@ -37,7 +37,7 @@
     "slots_two_match": "Spun 2 **{{slot}}**, won",
     "insufficient_currency": "Alas, {{user}}, but you don't have enough :gem: to keep goin'!",
     "opened_pack": "{{user}} shifted through a {{item}} pile and found...",
-    "pre_generation": "Searching for yer image, please wait. If this fails to generate, ye cards will have been saved pre-generation.",
+    "pre_generation": "Ye opening the chest. It magic, so it saves in ye inventory if the chest ain't show. It weird, ain't it?",
     "image_failed": "Image request broke",
     "send_to_pm": "Sent you the instructions in yer private pouch!",
     "help_more_info": "`{{prefix}}help [command]` for more info",
