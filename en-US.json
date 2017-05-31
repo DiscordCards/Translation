@@ -182,10 +182,13 @@
 	"displaycolor": "Display Color:",
 	"trades": "Trades:",
 	"notifs": "Notifications:",
+	"react": "Reaction Pagination:",
 	"notifs_on": "Notifications are now on.",
 	"notifs_off": "Notifications are now off.",
 	"trades_on": "Trades are now on.",
 	"trades_off": "Trades are now off.",
+	"react_on": "Reaction paginating is now on.",
+	"react_off": "Reaction paginating is now off.",
 
 	"no_club": "Couldn't find that club!",
 	"club_specify_user": "Please specify a user.",
@@ -356,6 +359,10 @@
 	"gift_sent": "Gave {{user}} {{item}}.",
 	"donation_sent": "Gave {{user}} **{{amount}}** :dollar:.",
 	"donation_cant_afford": "You can't afford to donate that much!",
+
+	"paginate_error_cant_react": "Error: Could not finish displaying reactions.",
+	"paginate_error_overwritten": "Error: Request was overwritten.",
+	"paginate_error_cant_clear": "Error: Could not clear reactions.",
 
 	"series": "Series",
 	"trade": "Trade",
