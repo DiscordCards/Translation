@@ -72,7 +72,7 @@
     "no_use_pms": "Nemůžete používat tento příkaz v soukromých zprávách!",
     "not_setting": "{{user}}, tohle není nastavení.",
     "prefix_setting": "Prefix(předpona příkazů) byl nastaven na `{{prefix}}`.",
-    "locale_setting": "Jazyk je nastaven na `{{locale}}`.",
+    "locale_setting": "Jazyk serveru je nastaven na `{{locale}}`.",
     "adminrole_setting": "Administrátorská role je nastavena na `{{role}}`.",
     "displaycolor_setting": "Zobrazená barva je nastavena na {{color}}.",
     "prefix": "Prefix (předpona příkazů):",
@@ -121,5 +121,8 @@
     "help_desc.badge": "Ukáže informace o odznaku",
     "help_desc.badges": "Vypíše všechny odznaky",
     "help_desc.balance": "Získejte váš zůstatek (nebo někoho jiného)",
-    "help_desc.boexecute": "Začne nabídku na globalním obchodě"
+    "help_desc.boexecute": "Začne nabídku na globalním obchodě",
+    "react": "Strany pomocí reakcí:",
+    "react_on": "Strany pomocí reakcí jsou zapnuty.",
+    "react_off": "Strany pomocí reakcí jsou vypnuty."
 }
