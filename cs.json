@@ -124,5 +124,6 @@
     "help_desc.boexecute": "Začne nabídku na globalním obchodě",
     "react": "Strany pomocí reakcí:",
     "react_on": "Strany pomocí reakcí jsou zapnuty.",
-    "react_off": "Strany pomocí reakcí jsou vypnuty."
+    "react_off": "Strany pomocí reakcí jsou vypnuty.",
+    "_dollar": "💵"
 }
