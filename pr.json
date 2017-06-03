@@ -181,5 +181,6 @@
     "help_extra.search_rarity": "Searches card offers with th' rarity",
     "help_extra.search_series": "Searches card and card pile offers with th' series ID",
     "help_extra.buy_series": "Buys card pile with th' ID",
-    "help_extra.card_card_id": "Finds a card with th' ID"
+    "help_extra.card_card_id": "Finds a card with th' ID",
+    "_dollar": "💎"
 }
