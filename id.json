@@ -320,5 +320,6 @@
     "help_extra.setting_string": "String",
     "help_extra.setting_note_locale_list": "`{{prefix}}locale list` untuk melihat daftar bahasa yang tersedia",
     "help_desc.badge": "Menampilkan informasi tentang sebuah lencana.",
-    "help_desc.badges": "Tampilkan semua lencana"
+    "help_desc.badges": "Tampilkan semua lencana",
+    "_dollar": "💵"
 }
