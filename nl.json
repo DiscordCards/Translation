@@ -209,5 +209,6 @@
     "cardguess_fail": "Je hebt gefaald om `{{item}}` correct te raden! Probeer later nog een keer!",
     "cardguess_success_guess": "Ik gok dat je `{{item}}` bedoelde. Zo ja, dan heb je het goed!",
     "cardguess_wrong": "Fout!",
-    "user_not_invited": "Deze gebruiker is niet geïnviteerd!"
+    "user_not_invited": "Deze gebruiker is niet geïnviteerd!",
+    "_dollar": "💶"
 }
