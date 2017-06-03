@@ -1,6 +1,7 @@
 {
     "_name": "English (United Kingdom)",
     "_emoji": "gb",
+    "_dollar": "💷",
     "embed_warn": "[WARNING] Bot doesn't have permission to embed links.",
     "no_start_that": "Sorry, {{user}}, but that user hasn't started yet.",
     "no_start": "Please create your account by using the `{{prefix}}stats` command.",

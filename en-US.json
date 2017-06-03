@@ -1,6 +1,7 @@
 {
 	"_name": "English (United States)",
 	"_emoji": "us",
+	"_dollar": "💵",
 
 	"embed_warn": "[WARNING] Bot doesn't have permission to embed links.",
 	"no_start_that": "Sorry, {{user}}, but that user hasn't started yet.",
