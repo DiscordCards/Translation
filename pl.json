@@ -54,5 +54,6 @@
     "invalid_arg": "Nieprawidłowy argument!",
     "invalid_locale": "Nieprawidłowy region!",
     "invalid_settings_perms": "Musisz mieć rolę `{{role}}` żeby edytować pozwolenia serwera!",
-    "slots_two_match": "Wylosowano 2 **{{slot}}**, wygrano"
+    "slots_two_match": "Wylosowano 2 **{{slot}}**, wygrano",
+    "_dollar": "💵"
 }
