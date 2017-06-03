@@ -13,6 +13,6 @@ Translations for Discord Cards
 - Do not change backticks (`). 
 - Check Context tab for info on how it's structured.
 - Check English version for context.
-- `_emoji` is not to be translated, Snazzah will modify this.
+- `_emoji` and `_dollar` is not to be translated, Snazzah will modify this.
 - `_name` is the name of the language, in the native language.
 - Anything encased in backticks (`) should not be translated.
