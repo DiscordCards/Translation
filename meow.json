@@ -39,5 +39,6 @@
     "insufficient_currency": "Mow, {{user}}, moworr :dollar: murr mrraa~mro.",
     "opened_pack": "{{user}} Poora Mre {{item}} murrrhemro, ro mureow~mreh...",
     "pre_generation": "Mreow mro murrrhemro...",
-    "image_failed": "Moora ra~murrr~"
+    "image_failed": "Moora ra~murrr~",
+    "_dollar": "💵"
 }
