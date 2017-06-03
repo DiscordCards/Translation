@@ -296,5 +296,6 @@
     "quests": "Quests",
     "general": "Geral",
     "shop": "Compras",
-    "query_error": "Nosso analisador teve um erro em seu pedido, tente usando uma questão diferente."
+    "query_error": "Nosso analisador teve um erro em seu pedido, tente usando uma questão diferente.",
+    "_dollar": "💵"
 }
