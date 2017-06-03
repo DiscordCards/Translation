@@ -30,6 +30,7 @@
     "sr": "Super Rare",
     "l": "Limited",
     "need_embed": "I must have Embed Links permission for this command!",
+    "need_embed_emojis": "I must have the Embed Links and the Use External Emojis permission for this command!",
     "large_bet": "Too large of a bet!",
     "invalid_bet": "Invalid bet!",
     "specify_bet": "Please specify a bet.",
