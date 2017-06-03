@@ -288,5 +288,6 @@
     "help_desc.cardguess": "Te reta a adivinar cartas para conseguir :dollar:.",
     "help_desc.cards": "Te da una lista de todas las cartas",
     "help_desc.cban": "Bloquea a alguien de un club (nunca más puede volver al club).",
-    "help_desc.cbanlist": "Te da una lista de todos los miembros del club bloqueados."
+    "help_desc.cbanlist": "Te da una lista de todos los miembros del club bloqueados.",
+    "_dollar": "💶"
 }
