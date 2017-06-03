@@ -318,5 +318,6 @@
     "help_extra.setting_design_name": "Banner-Design-Name",
     "help_extra.setting_bool": "Ja/Nein",
     "help_extra.setting_string": "String",
-    "help_extra.setting_note_locale_list": "`{{prefix}}locale list` um verfügbar Sprachen anzuzeigen"
+    "help_extra.setting_note_locale_list": "`{{prefix}}locale list` um verfügbar Sprachen anzuzeigen",
+    "_dollar": "💶"
 }
