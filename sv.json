@@ -70,5 +70,6 @@
     "no_use_pms": "Du kan inte använda det kommandot i Privat Meddelanden!",
     "not_setting": "Det är ingen inställning, {{user}}.",
     "prefix_setting": "Prefix satt till `{{prefix}}`.",
-    "locale_setting": "Språk satt till `{{locale}}`."
+    "locale_setting": "Språk satt till `{{locale}}`.",
+    "_dollar": "💵"
 }
