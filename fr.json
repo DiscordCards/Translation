@@ -235,5 +235,6 @@
     "trader": "Autre utilisateur",
     "tradee": "Marchandise",
     "time": "{{days}} Jours {{hours}} Heures {{minutes}} Minutes {{seconds}} Secondes",
-    "cardguess_wrong": "Faux!"
+    "cardguess_wrong": "Faux!",
+    "_dollar": "💶"
 }
