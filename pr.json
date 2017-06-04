@@ -162,7 +162,7 @@
     "trade_currency_set": "Ye'll be giving out **{{amount}}** :gem:.",
     "daily_ok": "Ye gained **{{amount}}** for ye :moneybag:.",
     "help_desc.badge": "Shows readin's about a patch.",
-    "help_desc.badges": "Lists all patches",
+    "help_desc.badges": "Lists all medals",
     "help_desc.cardguess": "Guess what cards ye see for a couple of :gem:!",
     "help_desc.cards": "Shows a list of cards",
     "help_desc.ccreate": "Create a crew",
@@ -182,5 +182,10 @@
     "help_extra.search_series": "Searches card and card pile offers with th' series ID",
     "help_extra.buy_series": "Buys card pile with th' ID",
     "help_extra.card_card_id": "Finds a card with th' ID",
-    "_dollar": "💎"
+    "_dollar": "💎",
+    "help_extra.openpack_card_pack": "Unlocks card pile with that ID",
+    "help_extra.fusecards_series_id": "Mixes cards of that pile with that ID",
+    "help_extra.modifiers": "Changers",
+    "help_extra.settings": "Gears",
+    "help_desc.balance": "Get your own chest (or someone elses)"
 }
