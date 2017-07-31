@@ -1,7 +1,7 @@
-# [Discord Cards Translation](https://translate.discord.cards) ![StatusWidget](http://translate.discord.cards/widgets/discord-cards/-/svg-badge.svg)
+# [Discord Cards Translation](https://weblate.snazzah-is.cool) ![StatusWidget](http://weblate.snazzah-is.cool/widgets/discord-cards/-/svg-badge.svg)
 Translations for Discord Cards
 
-![Chart](http://translate.discord.cards/widgets/discord-cards/-/multi-auto.svg)
+![Chart](http://weblate.snazzah-is.cool/widgets/discord-cards/-/multi-auto.svg)
 
 # Contributing
 
