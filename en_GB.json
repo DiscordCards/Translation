@@ -387,5 +387,16 @@
     "quests": "Quests",
     "general": "General",
     "shop": "Shop",
-    "time": "{{days}} Days {{hours}} Hours {{minutes}} Minutes {{seconds}} Seconds"
+    "time": "{{days}} Days {{hours}} Hours {{minutes}} Minutes {{seconds}} Seconds",
+    "_dollar": "💷",
+    "need_embed_emojis": "I must have the Embed Links and the Use External Emojis permission for this command!",
+    "user_locale_setting": "User locale set to `{{locale}}`.",
+    "locale_unset": "Unset your locale. Your locale will now automatically use the server-selected setting.",
+    "unset_locale": "Unset your locale.",
+    "react": "Reaction Pagination:",
+    "react_on": "Reaction paginating is now on.",
+    "react_off": "Reaction paginating is now off.",
+    "paginate_error_cant_react": "Error: Could not finish displaying reactions.",
+    "paginate_error_overwritten": "Error: Request was overwritten.",
+    "paginate_error_cant_clear": "Error: Could not clear reactions."
 }
