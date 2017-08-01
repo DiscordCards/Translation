@@ -1,4 +1,24 @@
 {
     "_emoji": "dk",
-    "_dollar": "💵"
+    "_dollar": "💵",
+    "series_locked": "Denne serie er stadig under udvikling.",
+    "cant_affort": "Har ikke råd til dette!",
+    "series_bought": "Købte {{item}} Pakke.",
+    "series_bought_a": "Købte en {{item}} Pakke.",
+    "no_start": "Venligst opret din konto ved at bruge `{{prefix}}stats` kommandoen.",
+    "no_start_that": "Beklager, {{user}}, men den bruger er endnu ikke begyndt.",
+    "your_bal": "Din :credit_card: Saldo er **{{amount}}**.",
+    "their_bal": "Deres :credit_card: Saldo er **{{amount}}**.",
+    "started_acct": "{{user}}, konto oprettet med success.",
+    "cant_start_week": "Beklager, {{user}}, men din Discord konto skal være mindst en uge gammel for at spille",
+    "embed_warn": "[ADVARSEL] Botten mangler `Embed Links` tilladelsen.",
+    "_name": "Dansk",
+    "item_found": "Fandt 1 genstand.",
+    "items_found": "Fandt {{amount}} genstande.",
+    "found_specific": "Vær sød at være mere specifik.",
+    "no_card_id_found": "Beklager, {{user}}, men der kunne ikke findes noget kort med dette ID.",
+    "no_card_exist_found": "Beklager, {{user}}, men dette kort findes ikke.",
+    "no_series_id_found": "Beklager, {{user}}, men der kunne ikke findes en serie med dette ID.",
+    "no_series_exist_found": "Beklager, {{user}}, men denne serie findes ikke.",
+    "no_badge_exist_found": "Beklager, {{user}}, men dette emblem findes ikke."
 }
