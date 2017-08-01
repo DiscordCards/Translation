@@ -125,5 +125,16 @@
     "react": "Strany pomocí reakcí:",
     "react_on": "Strany pomocí reakcí jsou zapnuty.",
     "react_off": "Strany pomocí reakcí jsou vypnuty.",
-    "_dollar": "💵"
+    "_dollar": "💵",
+    "need_embed_emojis": "Potřebuji oprávnění Vložit odkazy (Embed Links) a Povolit externí emoji (Use External Emoji) pro tento příkaz!",
+    "help_desc.boffer": "Vytvoří obchodní nabídku na globálním obchodě",
+    "help_desc.bolist": "Vypíše seznam obchodních nabídek",
+    "help_desc.bosearch": "Vyhledá obchodní nabídky s danou věcí.",
+    "help_desc.bug": "Ukáže odkaz na seznam chyb.",
+    "help_desc.buypack": "Koupí balíček",
+    "help_desc.card": "Ukáže informace o kartě.",
+    "help_desc.cardguess": "Uhodněte karty za :dollar:.",
+    "help_desc.cards": "Ukáže seznam karet",
+    "help_desc.cban": "Zabanuje někoho z klubu.",
+    "help_desc.cbanlist": "Vypíše seznam klubových banů"
 }
