@@ -144,5 +144,13 @@
     "command_invite": "Inviter botten med følgende link:",
     "command_bug": "Du kan indrapportere bugs med følgende link:",
     "cardguess_stop": "Stoppede minispillet.",
-    "await_timeout": "Det lykkedes dig ikke at svare indenfor 30 sekunder! Prøv venligst igen!"
+    "await_timeout": "Det lykkedes dig ikke at svare indenfor 30 sekunder! Prøv venligst igen!",
+    "await_overwritten": "Din anmodning blev på en eller anden måde overskrevet. Prøv venligst igen!",
+    "cardguess_start_1": "Gæt hvilket kort du ser her! Dine 30 sekunder starter nu",
+    "cardguess_start_2": "Skriv 'cancel' for til enhver tid at stoppe.",
+    "cardguess_fail": "Lykkedes ikke at gætte `{{item}}` korrekt! Prøv venligst igen senere!",
+    "cardguess_success": "Du gættede korrekt!",
+    "cardguess_success_guess": "Jeg vil skyde på du mente `{{item}}`. I så fald, så var det korrekt gættet!",
+    "cardguess_wrong": "Forkert!",
+    "invalid_arg": "Ugyldigt argument!"
 }
