@@ -160,7 +160,7 @@
     "tradee_currency": "Tradee's :gem:",
     "trade_currency_reset": "Stopped giving out yer :gem:.",
     "trade_currency_set": "Ye'll be giving out **{{amount}}** :gem:.",
-    "daily_ok": "Ye gained **{{amount}}** for ye :moneybag:.",
+    "daily_ok": "Ye gained **{{amount}}** :gem: for ye :moneybag:.",
     "help_desc.badge": "Shows readin's about a patch.",
     "help_desc.badges": "Lists all medals",
     "help_desc.cardguess": "Guess what cards ye see for a couple of :gem:!",
@@ -187,5 +187,12 @@
     "help_extra.fusecards_series_id": "Mixes cards of that pile with that ID",
     "help_extra.modifiers": "Changers",
     "help_extra.settings": "Gears",
-    "help_desc.balance": "Get your own chest (or someone elses)"
+    "help_desc.balance": "Get your own chest (or someone elses)",
+    "help_extra.note": "Note",
+    "help_extra.mod_card_id": "CARD_ID",
+    "help_extra.mod_rarity": "RARITY",
+    "help_extra.mod_series": "SERIES",
+    "help_extra.mod_series_id": "SERIES_ID",
+    "help_extra.setting_hex": "HEX Color",
+    "help_extra.setting_bool": "Yes/No"
 }
