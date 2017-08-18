@@ -152,5 +152,15 @@
     "cardguess_success": "Du gættede korrekt!",
     "cardguess_success_guess": "Jeg vil skyde på du mente `{{item}}`. I så fald, så var det korrekt gættet!",
     "cardguess_wrong": "Forkert!",
-    "invalid_arg": "Ugyldigt argument!"
+    "invalid_arg": "Ugyldigt argument!",
+    "invalid_locale": "Ugyldige dprogindstillinger!",
+    "invalid_settings_perms": "Du skal have `{{role}}` rollen for at kunne ændre i server indstillingerne!",
+    "invalid_hex": "Beklager, {{user}}, men det er en ugyldig HEX farve.",
+    "invalid_bool": "Beklager, {{user}}, men jeg ved ikke hvad du mener. Brug ord som `ja` eller `nej`.",
+    "no_use_pms": "Du kan ikke bruge kommandoer i privat beskeder!",
+    "not_setting": "Dete er ikke en indstilling, {{user}}.",
+    "prefix_setting": "Prefix sat til `{{prefix}}`.",
+    "user_locale_setting": "Bruger sprogindstillinger sat til `{{locale}}`.",
+    "locale_setting": "Server sprogindstillinger sat til `{{locale}}`.",
+    "locale_unset": "Nulstil dine sprogindstillinger. Dine sprogindstillinger vil nu automatisk blive sat til at bruge server-valgte indstillinger."
 }
