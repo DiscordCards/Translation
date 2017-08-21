@@ -385,5 +385,20 @@
     "help_desc.tremoveitem": "Remove um item da troca.",
     "help_desc.tsetmoney": "Define quanto :dollar: você oferece.",
     "help_desc.tstart": "Começa uma requisição de troca com uma pessoa",
-    "user_locale_setting": "Localidade do usuário definida para `{{locale}}`."
+    "user_locale_setting": "Localidade do usuário definida para `{{locale}}`.",
+    "locale_unset": "Remova sua localidade. Sua localidade agora usará automaticamente a configuração selecionada pelo servidor.",
+    "unset_locale": "Remova sua localidade.",
+    "react": "Reação Paginada:",
+    "react_on": "Reação Paginada agora está ativa.",
+    "react_off": "Reação paginada agora está desativa.",
+    "paginate_error_cant_clear": "Erro: Não pude remover as reações.",
+    "paginate_error_overwritten": "Erro: Pedido foi sobrescrito.",
+    "paginate_error_cant_react": "Erro: Não pude completar mostragem das reações.",
+    "donation_cant_afford": "Você não pode dar o luxo de doar tanto!",
+    "donation_sent": "Deu {{user}} **{{amount}}** :dollar:.",
+    "gift_sent": "Deu {{user}} {{item}}",
+    "gift_sent_a": "Deu {{user}} um {{item}}",
+    "gift_left": "Você tentou dar {{user}} {{amount}}, mas você apenas tem {{left}} sobrando deste item.",
+    "gift_none": "Você tentou dar {{user}} {{amount}} {{item}}, mas você não tem nenhum.",
+    "help_desc.trade": "Mostra a atual situação de troca."
 }
