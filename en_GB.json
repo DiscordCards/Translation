@@ -65,7 +65,7 @@
     "help_extra.setting_bool": "Yes/No",
     "help_extra.setting_string": "String",
     "help_extra.setting_note_locale_list": "`{{prefix}}locale list` to list locales available",
-    "help_desc.badge": "Shows information about an badge.",
+    "help_desc.badge": "Shows information about a badge.",
     "help_desc.badges": "Lists all badges",
     "help_desc.balance": "Get your own balance (or someone elses)",
     "help_desc.boexecute": "Executes a buying offer on the global market",
@@ -401,5 +401,8 @@
     "paginate_error_cant_clear": "Error: Could not clear reactions.",
     "no_album_id_found": "Sorry, {{user}}, but no album has that ID.",
     "specify_album_id": "Please specify an album ID, {{user}}.",
-    "help_desc.album": "Shows information about an album."
+    "help_desc.album": "Shows information about an album.",
+    "help_desc.albums": "Lists all albums",
+    "request_bad_gateway": "This request took too long, try again later!",
+    "albums": "Albums"
 }
