@@ -162,5 +162,10 @@
     "prefix_setting": "Prefix sat til `{{prefix}}`.",
     "user_locale_setting": "Bruger sprogindstillinger sat til `{{locale}}`.",
     "locale_setting": "Server sprogindstillinger sat til `{{locale}}`.",
-    "locale_unset": "Nulstil dine sprogindstillinger. Dine sprogindstillinger vil nu automatisk blive sat til at bruge server-valgte indstillinger."
+    "locale_unset": "Nulstil dine sprogindstillinger. Dine sprogindstillinger vil nu automatisk blive sat til at bruge server-valgte indstillinger.",
+    "no_album_id_found": "Beklager, {{user}}, men der findes ikke noget album med dette ID.",
+    "specify_album_id": "Venligst angiv et specifikt album ID, {{user}}.",
+    "help_desc.album": "Viser oplysninger om et album.",
+    "help_desc.albums": "Viser en liste over alle albummer",
+    "request_bad_gateway": "Denne forspørgsel krævede for meget tid til at blive behandlet, prøv venligst igen senere!"
 }
