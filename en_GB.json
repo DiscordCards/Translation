@@ -72,7 +72,7 @@
     "help_desc.boffer": "Puts a buying offer on the global market",
     "help_desc.bolist": "Shows a list of all buying offers",
     "help_desc.bosearch": "Searches for an item on buying offers.",
-    "help_desc.bug": "Gets an link to the bug tracker.",
+    "help_desc.bug": "Gets a link to the bug tracker.",
     "help_desc.buypack": "Purchase a pack.",
     "help_desc.card": "Shows information about an card.",
     "help_desc.cardguess": "Guess cards for :dollar:.",
@@ -398,5 +398,8 @@
     "react_off": "Reaction paginating is now off.",
     "paginate_error_cant_react": "Error: Could not finish displaying reactions.",
     "paginate_error_overwritten": "Error: Request was overwritten.",
-    "paginate_error_cant_clear": "Error: Could not clear reactions."
+    "paginate_error_cant_clear": "Error: Could not clear reactions.",
+    "no_album_id_found": "Sorry, {{user}}, but no album has that ID.",
+    "specify_album_id": "Please specify an album ID, {{user}}.",
+    "help_desc.album": "Shows information about an album."
 }
