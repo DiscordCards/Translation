@@ -404,5 +404,11 @@
     "help_desc.album": "Shows information about an album.",
     "help_desc.albums": "Lists all albums",
     "request_bad_gateway": "This request took too long, try again later!",
-    "albums": "Albums"
+    "albums": "Albums",
+    "no_available_albums": "No albums needs this card.",
+    "album_add_piece": "{{user}} added a piece to the album #{{album}}!",
+    "album_which": "Type the number of the album you want to match this card with. Available albums: {{albums}}\nOr type `c` to cancel the operation.",
+    "operation_canceled": "Operation canceled.",
+    "no_card": "You don't have that card!",
+    "help_desc.cardtoalbum": "Makes a card into a piece of the album."
 }
