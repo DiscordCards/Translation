@@ -320,7 +320,7 @@
     "help_extra.setting_bool": "Sim/Não",
     "help_extra.setting_string": "Corda",
     "help_extra.setting_note_locale_list": "`{{prefix}}locale list` para listar localidades disponíveis",
-    "help_desc.badge": "Mostra a informação sobre uma insígnia.",
+    "help_desc.badge": "Mostra a informação sobre a insígnia.",
     "help_desc.badges": "Lista todas as insígnias",
     "help_desc.balance": "Olhe seu próprio balanço (ou de outra pessoa)",
     "help_desc.boexecute": "Executa uma oferta de compra no mercado global",
@@ -400,5 +400,17 @@
     "gift_sent_a": "Deu {{user}} um {{item}}",
     "gift_left": "Você tentou dar {{user}} {{amount}}, mas você apenas tem {{left}} sobrando deste item.",
     "gift_none": "Você tentou dar {{user}} {{amount}} {{item}}, mas você não tem nenhum.",
-    "help_desc.trade": "Mostra a atual situação de troca."
+    "help_desc.trade": "Mostra a atual situação de troca.",
+    "no_album_id_found": "Desculpe, {{user}}, mas nenhum álbum tem este ID.",
+    "specify_album_id": "Por favor especifique um ID de álbum, {{user}}.",
+    "no_available_albums": "Nenhum álbum precisa desta carta.",
+    "album_add_piece": "{{user}} adicionou uma peça ao álbum #{{album}}!",
+    "album_which": "Escreva o número do álbum que você quer combinar com está carta. Álbuns disponíveis: {{albums}}\nOu escreva `c` para cancelar a operação.",
+    "operation_canceled": "Operação cancelada.",
+    "no_card": "Você não tem esta carta!",
+    "help_desc.album": "Mostra a informação sobre um álbum.",
+    "help_desc.albums": "Lista todos os álbuns",
+    "help_desc.cardtoalbum": "Faz uma carta em uma peça do álbum.",
+    "request_bad_gateway": "Essa requisição demorou muito, tente novamente mais tarde!",
+    "albums": "Álbuns"
 }
