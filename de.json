@@ -402,7 +402,7 @@
     "react_on": "Reaktion-Seitennummerierung ist jetzt an.",
     "react_off": "Reaktion-Seitennummerierung ist jetzt aus.",
     "unset_locale": "Setzt deine Benutzersprache zurück.",
-    "no_album_id_found": "Sorry, {{user}}, aber kein Album besitzt diese ID.",
+    "no_album_id_found": "Sorry {{user}}, aber kein Album besitzt diese ID.",
     "specify_album_id": "Bitte gib eine Album-ID an, {{user}}.",
     "no_available_albums": "Kein Album benötigt diese Karte.",
     "album_add_piece": "{{user}} hat ein Teil zum Album #{{album}} hinzugefügt!",
