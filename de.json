@@ -330,7 +330,7 @@
     "help_desc.boffer": "Stellt ein Kauf-Angebot auf den globalen Markt",
     "help_desc.bolist": "Zeigt eine Liste aller Kauf-Angebote",
     "help_desc.bosearch": "Sucht nach einem Item in den Kauf-Angeboten",
-    "help_desc.bug": "Verlinkt zu dem Bug-Tracker",
+    "help_desc.bug": "Verlinkt zu dem Bug-Tracker.",
     "help_desc.buypack": "Kaufe ein Pack.",
     "help_desc.card": "Zeigt Informationen über eine Karte an.",
     "help_desc.cardguess": "Errate Karten für :dollar:.",
@@ -401,5 +401,17 @@
     "react": "Reaktion-Seitennummerierung:",
     "react_on": "Reaktion-Seitennummerierung ist jetzt an.",
     "react_off": "Reaktion-Seitennummerierung ist jetzt aus.",
-    "unset_locale": "Setzt deine Benutzersprache zurück."
+    "unset_locale": "Setzt deine Benutzersprache zurück.",
+    "no_album_id_found": "Sorry {{user}}, aber kein Album hat diese ID.",
+    "specify_album_id": "Bitte gib eine Album-ID an, {{user}}.",
+    "no_available_albums": "Kein Album benötigt diese Karte.",
+    "album_add_piece": "{{user}} hat ein Teil zum Album #{{album}} hinzugefügt!",
+    "album_which": "Gib die Nummer des Albums ein, zu der du die Karte hinzufügen möchtest. Verfügbare Alben: {{albums}}\nOder gib `c` ein, um den Vorgang abzubrechen.",
+    "operation_canceled": "Vorgang abgebrochen.",
+    "no_card": "Du hast diese Karte nicht!",
+    "help_desc.album": "Zeigt Informationen über ein Album an.",
+    "help_desc.albums": "Listet alle Alben auf",
+    "help_desc.cardtoalbum": "Wandelt die Karte in ein Teil des Albums um.",
+    "request_bad_gateway": "Diese Anfrage hat zu lange gedauert, versuchte es später nochmal!",
+    "albums": "Alben"
 }
