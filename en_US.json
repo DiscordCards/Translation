@@ -34,6 +34,7 @@
 	"album_add_piece": "{{user}} added a piece to the album #{{album}}!",
 	"album_which": "Type the number of the album you want to match this card with. Available albums: {{albums}}\nOr type `c` to cancel the operation.",
 	"operation_canceled": "Operation canceled.",
+	"no_card": "You don't have that card!",
 
 	"c": "Common",
 	"uc": "Uncommon",
