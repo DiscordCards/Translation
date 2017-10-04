@@ -194,5 +194,6 @@
     "help_extra.mod_series": "SERIES",
     "help_extra.mod_series_id": "SERIES_ID",
     "help_extra.setting_hex": "HEX Color",
-    "help_extra.setting_bool": "Yes/No"
+    "help_extra.setting_bool": "Yes/No",
+    "no_album_id_found": "Alas {{user}}, but no album has dat ID!"
 }
