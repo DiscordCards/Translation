@@ -12,7 +12,7 @@
     "started_acct": "{{user}}, konto oprettet med success.",
     "cant_start_week": "Beklager, {{user}}, men din Discord konto skal være mindst en uge gammel for at spille",
     "embed_warn": "[ADVARSEL] Botten mangler `Embed Links` tilladelsen.",
-    "_name": "Dansk",
+    "_name": "Dansk (Danish)",
     "item_found": "Fandt 1 genstand.",
     "items_found": "Fandt {{amount}} genstande.",
     "found_specific": "Vær sød at være mere specifik.",
