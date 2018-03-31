@@ -134,5 +134,19 @@
     "help_desc.donate": "Donera någon :dollar:.",
     "help_desc.help": "Visar hjälp meddelande",
     "help_desc.invite": "Få en inbjudnings länk till boten",
-    "help_desc.openpack": "Öppnar ett paket."
+    "help_desc.openpack": "Öppnar ett paket.",
+    "help_desc.daily": "Få daglig :dollar:.",
+    "help_desc.inv": "Få det egna inventarie (eller någon annans)",
+    "help_desc.ping": "Pong!",
+    "help_desc.qget": "Få en quest.",
+    "help_desc.quest": "Se din nuvarande quest.",
+    "help_desc.series": "Visar en lista av serier",
+    "help_desc.serverinvite": "Få en inbjudnings länk till den officiella servern.",
+    "help_desc.setting": "Ändra eller se dina inställningar.",
+    "help_desc.slots": "Gör slots för :dollar:.",
+    "help_desc.ssetting": "Ändra eller se dina server inställningar.",
+    "help_desc.stats": "Få din egen statistik (eller någon annans)",
+    "help_desc.taccept": "Accepterar en utbytes förfrågan.",
+    "help_desc.tadditem": "Lägger till ett föremål till utbytet.",
+    "help_desc.tdeny": "Avböjer eller stoppar ett utbyte."
 }
