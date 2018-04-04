@@ -1,18 +1,15 @@
-# [Discord Cards Translation](https://weblate.snazzah-is.cool) ![StatusWidget](http://weblate.snazzah-is.cool/widgets/discord-cards/-/svg-badge.svg)
+# [Argoto Dialogflow Translation](https://weblate.snazzah-is.cool/projects/argoto/dialogflow/) ![StatusWidget](http://weblate.snazzah-is.cool/widgets/argoto/-/svg-badge.svg)
 Translations for Discord Cards
 
-![Chart](http://weblate.snazzah-is.cool/widgets/discord-cards/-/multi-auto.svg)
+![Chart](http://weblate.snazzah-is.cool/widgets/argoto/-/multi-auto.svg)
 
 # Contributing
 
-- ~~`$n` Resembles arguments, *n* representing the argument index or the place in where the argument is.  
-   Example: `$1 opened a pack with the series $2 and obtained...` resolves to `Snazzah opened a pack with the series Discord Nitro and obtained...`~~
-- `{{name}}` Resembles arguments and should not be translated. *name* representing the argument.  
-   Example: `{{user}} opened a pack with the series {{item}} and obtained...` resolves to `Snazzah opened a pack with the series Discord Nitro and obtained...`
+- `{name:meew0}` resembles arguments and should only be partially translated.  
+  Example: `{unit:inches}` should translate to `{unit:pulgadas}` in Spanish, *unit* being the parameter name.
+- Things like `{discord-user: 1173 6319 8205 6243 22 }` are resolving mentions and should not be translated under any circumstances
 - Do not suggest inappropriate translations.
-- Do not change backticks (`). 
+- Do not change emojis. (`<:ArgotoThink:418240536718213120>`)
+- Do not change markdown elements (such as `, \**, \*, \[\](), \_). 
 - Check Context tab for info on how it's structured.
 - Check English version for context.
-- `_emoji` and `_dollar` is not to be translated, Snazzah will modify this.
-- `_name` is the name of the language, in the native language.
-- Anything encased in backticks (`) should not be translated.
